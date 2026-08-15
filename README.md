@@ -1,5 +1,15 @@
 # ForjaElo Governance Testes
 
+https://github.com/user-attachments/assets/44e7c3b3-3bd5-4a4c-84f9-f6c5f88851ab
+
+Conexão Humana e o Ecossistema do Desenvolvimento
+
+A base de qualquer ecossistema funcional é a conexão humana genuína. Neste vídeo, exploramos como priorizar o desenvolvimento humano, encontrar talentos e descobrir o verdadeiro propósito vai muito além de uma simples venda.
+
+Entenda como os sete elos organizam a pessoa por inteiro — passando pela potência central, talento, atleta e ideia — e por que o produto é apenas a consequência natural dessa conexão. O esporte é apenas o campo; as pessoas são os verdadeiros agentes da evolução.
+
+Conecte-se com a essência da contribuição que gera valor e reputação sustentável.
+
 > Laboratório de pesquisa, validação e experimentação de modelos de governança aplicados ao ecossistema ForjaElo.
 
 ---
